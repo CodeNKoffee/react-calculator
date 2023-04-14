@@ -1,0 +1,23 @@
+:root {
+  --main-coalblack: #162027aa;
+  --red-func: #fb4646;
+  --teller-white: #fafafa;
+  --teller-transparent: #fafafa73;
+}
+
+.screen {
+  background-color: transparent;
+  color: var(--teller-white);
+  border-radius: 10px;
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  font-size: 3rem;
+  text-align: right;
+  grid-column: 1 / -1;
+  transition: all 500ms ease;
+}
+
+.screen:hover {
+  background-color: var(--teller-transparent);
+}

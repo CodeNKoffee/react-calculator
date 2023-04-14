@@ -1,0 +1,45 @@
+:root {
+  --main-coalblack: #162027aa;
+  --red-func: #fb4646;
+  --teller-white: #fafafa;
+  --teller-transparent: #fafafa73;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+  background-color: #162027aa;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+button {
+  background-color: transparent !important;
+  border: none;
+  color: var(--teller-white);
+  font-size: 2rem;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: var(--teller-transparent) !important;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+.btn__special {
+  width: 50% !important;
+}
+
+.btn__double {
+  width: 50% !important;
+  font-size: 36px;
+  padding: 20px;
+}
+

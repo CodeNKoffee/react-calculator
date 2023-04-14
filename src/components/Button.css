@@ -1,0 +1,33 @@
+:root {
+  --main-coalblack: #162027aa;
+  --red-func: #fb4646;
+  --teller-white: #fafafa;
+  --teller-transparent: #fafafa73;
+}
+
+.button {
+  background-color: transparent;
+  color: #fafafa;
+  font-size: 24px;
+  width: 25%;
+  height: 64px;
+  padding: 16px;
+  border: none;
+  border-radius: 16px;
+  outline: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: var(--teller-transparent);
+}
+
+.btn__special {
+  width: 50% !important;
+}
+
+.btn__double {
+  width: 50% !important;
+  font-size: 36px;
+  padding: 20px;
+}
