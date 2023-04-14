@@ -29,4 +29,7 @@ To install and run this calculator, follow these steps:
 
 ## Credits
 
+Background image by [Luca Micheli](https://unsplash.com/fr/@lucamicheli) on [Unsplash](https://unsplash.com/wallpapers/screen/4k)
+
+
 This calculator was built by [Hatem Soliman](https://hatemsoliman.dev). If you have any questions or feedback, feel free to contact me at [hatemthedev@gmail.com](mailto:hatemthedev@gmail.com).
