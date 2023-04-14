@@ -2,8 +2,11 @@
 
 This is a responsive calculator built with React. It can perform basic arithmetic operations and displays the result in real-time.
 
+### M2 MacBook Pro View
 ![Laptop View](./src/assets/laptop.png)
+### iPad Air View
 ![iPad View](./src/assets/ipad.png)
+### iPhone 12 Pro View
 ![iPhone View](./src/assets/iphone.png)
 
 ## Usage
