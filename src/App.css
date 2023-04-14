@@ -17,6 +17,8 @@ body {
   overflow-x: hidden;
   background-image: url(./assets/luca_micheli.jpeg);
   background-size: cover;
+  height: 100vh;
+  background-position: center;
   background-repeat: no-repeat;
 }
 
